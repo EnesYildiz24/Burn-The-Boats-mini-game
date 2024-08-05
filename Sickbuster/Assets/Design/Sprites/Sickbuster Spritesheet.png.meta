@@ -1,0 +1,1755 @@
+fileFormatVersion: 2
+guid: 07dd8180b6c29a445b6d89bc21ee41ba
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 998
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c2fa1f97e6ad84e8db7898533bc925
+      internalID: 1792957294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1016
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765ebfbe69b6f9b44a823f0267e9dd0f
+      internalID: 804375423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1014
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5157bfcc0b2c0469cef5d7e000d9ef
+      internalID: -731378992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 991
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ea8d259edd4f44d8798722124f1770
+      internalID: -1002004077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 998
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e19f68e666f87845a12614fa369f927
+      internalID: -1854675347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 923
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bed541cb02a5e498c542fe6f9aa9d7
+      internalID: 1511023187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 917
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e199eb126f2cbe44855250705686fd4
+      internalID: 746318300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 918
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e6e4fbf2111304098272147db96276
+      internalID: 39323922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 923
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6199cffcef644ff49b557c848f51c32c
+      internalID: -1093264259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 919
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd98f00f46f98a4fb7a77ba60d55d73
+      internalID: -935047072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 917
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a729a2744ebbfa4a96d57842c307e7e
+      internalID: -582086656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 902
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aa62cf54375534887b63c03207fa53
+      internalID: -1244548341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 917
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71253dc12297a040a2a1e3e95526471
+      internalID: 1156406578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 918
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94db99df0593374caa59141850ab10e
+      internalID: 335744969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 916
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e9ea83e4e9db6469c7dfd3fafa0646
+      internalID: -807236404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 918
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7528da9b62d4bbf49bd98d8ecb886caf
+      internalID: 284201900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 916
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789e12e7f8407f841be3d018318230d3
+      internalID: -314578590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 911
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d02b3aa16fee14e90b584bc7e9eb55
+      internalID: 975156294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 888
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58545a61ee45e38469e3e7e9552f1d57
+      internalID: 2066708900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 884
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9122afa9ffb35144ac3b0da6b1a6e26
+      internalID: -1015053091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 885
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3b02082af191645b414cf7e66fd490
+      internalID: 388478904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 884
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c46b79d5fcdff047b778623508b502b
+      internalID: 1638429165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 833
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5d3e10a742b7044884b81b4ea6b9e4
+      internalID: 378196103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 833
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be257a8cd840d534e948d1b9b0d88d90
+      internalID: 2097918111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 833
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3207146cdd8d234f9f9919d615e2586
+      internalID: -2115837099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 833
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe86648d40d56b4ca155741a379d945
+      internalID: -1007031355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 833
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57981acba3859b5449e6b569f143b3ff
+      internalID: -2007541888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 833
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d79326f1c9d1e4ba14f4b19c2ee86e
+      internalID: -782796759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 833
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70df80407e8b0b942ade5700f02d3647
+      internalID: -1263879975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 834
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd17968d1302f10498cbf2b8e1249a14
+      internalID: -1205670482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 835
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91fd49280cec5848a315327627638dc
+      internalID: 1328605229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 835
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8caa3861f89f244dbe6e445e90decb0
+      internalID: 2046041658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 835
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5791918ba7a7d854eb829ebad957bfbe
+      internalID: -1728707872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 836
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98618c120aa66284e9452e47284c57f8
+      internalID: -1872733311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 730
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ade71242a5cdf4294a71cb115e34f7
+      internalID: 615440942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 729
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24704fa84ad041498ca78c22b81b441
+      internalID: -1121618979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 749
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eaac789f536b44a82ad72e873dcadd
+      internalID: -1835173752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 749
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06286cd68ea1f514abdb0e830c60b83c
+      internalID: 502229098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 680
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85eb1a85f4afcbe4fbeafdb885d7ddfe
+      internalID: 885930044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 680
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09c8b3611d5fd342abb21781c35641a
+      internalID: 379988240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 680
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d06bfa864e8c7c429fd38a2c70e065e
+      internalID: 1228144665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 680
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf488a9ada362c545b247cfa577582cb
+      internalID: 1798210701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 680
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5431d8ed80728b44d9258b1ea0b8d50b
+      internalID: 526730818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 680
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3032ed9dd43f944858b55568833d4d
+      internalID: 11577966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 680
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6208d696b215d245a4e62b564e32506
+      internalID: 2137838717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 680
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb47d7c1e7d3f244bb2ebd76952d2a8
+      internalID: -1723005684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 680
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edb5660b16b81b4e8f286ffab90dde0
+      internalID: 2056512192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 632
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bf6d31550ede442965ab905f3cdc2c
+      internalID: 649878837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 632
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0900b0e78e80e40828b483446bf4c9
+      internalID: -766410782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 632
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74645741ff5bab54caf850ada0d40f1c
+      internalID: -1109436718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 632
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e54a9c083a8924889654d467dd6e04
+      internalID: -1909074729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 632
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c2e61466100324eb5c3385e7f37103
+      internalID: 1172977639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 632
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1dcb4a68bec4e4bac361e116415e18
+      internalID: -1758179297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 632
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf1cf54e522cf147866854c15c29e31
+      internalID: -1844221392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 632
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ad6b60f48835d4a948853fabac4c12
+      internalID: -1221049517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 584
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9bd4d72af6b8f498cca9878be64214
+      internalID: 1266245327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 584
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1868e824f92d374aaa5a886dde0ea98
+      internalID: -446654409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 584
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340264c27cb266043a7b83676db731ca
+      internalID: -1505268367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 584
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682ac136b6160c14db82be8d434fdb09
+      internalID: -968604264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 584
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5535477a8faa9294fa1aa0c777414f79
+      internalID: 489732997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 584
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb9fd842b90fc44f85056797af996ac
+      internalID: 1409956286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 536
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fb9d2c7e7cfb244ba6fab8c7a115b3
+      internalID: -966087954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 536
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baa9c86806e95e4ea07de7ad2664dcc
+      internalID: -1291385932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 536
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be57cbcac5c88d04fac5a41f43414e6e
+      internalID: 137828716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 536
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc7b3dfa255f804ca1adf65d24bf9fc
+      internalID: -2008608814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 488
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01de8609f1ae9e8428c743d638dfbb0e
+      internalID: 218773902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 488
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca53078468e927544b139053d4fd7cf1
+      internalID: 628270275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 488
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2575bebd77c5df4792f78168a70a009
+      internalID: 760393786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 488
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e70939e460e1e142bf67fcdbe6fc7da
+      internalID: -1891814819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 440
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241bf2924b9770e4e9257cad4dc46b20
+      internalID: 1891787580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 34
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abff734c4b56f814cba3d17e50ee1f58
+      internalID: -441037553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 63
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd39393d0d58ca499a4c3d1bced7046
+      internalID: -1490137100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 54
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d90ab8b7e0c29e418906446e55ca971
+      internalID: 2108921052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickbuster Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 86
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb215a26a2b59346af554e42c2845da
+      internalID: 397406049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sickbuster Spritesheet_0: 1792957294
+      Sickbuster Spritesheet_1: 804375423
+      Sickbuster Spritesheet_10: -582086656
+      Sickbuster Spritesheet_11: -1244548341
+      Sickbuster Spritesheet_12: 1156406578
+      Sickbuster Spritesheet_13: 335744969
+      Sickbuster Spritesheet_14: -807236404
+      Sickbuster Spritesheet_15: 284201900
+      Sickbuster Spritesheet_16: -314578590
+      Sickbuster Spritesheet_17: 975156294
+      Sickbuster Spritesheet_18: 2066708900
+      Sickbuster Spritesheet_19: -1015053091
+      Sickbuster Spritesheet_2: -731378992
+      Sickbuster Spritesheet_20: 388478904
+      Sickbuster Spritesheet_21: 1638429165
+      Sickbuster Spritesheet_22: 378196103
+      Sickbuster Spritesheet_23: 2097918111
+      Sickbuster Spritesheet_24: -2115837099
+      Sickbuster Spritesheet_25: -1007031355
+      Sickbuster Spritesheet_26: -2007541888
+      Sickbuster Spritesheet_27: -782796759
+      Sickbuster Spritesheet_28: -1263879975
+      Sickbuster Spritesheet_29: -1205670482
+      Sickbuster Spritesheet_3: -1002004077
+      Sickbuster Spritesheet_30: 1328605229
+      Sickbuster Spritesheet_31: 2046041658
+      Sickbuster Spritesheet_32: -1728707872
+      Sickbuster Spritesheet_33: -1872733311
+      Sickbuster Spritesheet_34: 615440942
+      Sickbuster Spritesheet_35: -1121618979
+      Sickbuster Spritesheet_36: -1835173752
+      Sickbuster Spritesheet_37: 502229098
+      Sickbuster Spritesheet_38: 885930044
+      Sickbuster Spritesheet_39: 379988240
+      Sickbuster Spritesheet_4: -1854675347
+      Sickbuster Spritesheet_40: 1228144665
+      Sickbuster Spritesheet_41: 1798210701
+      Sickbuster Spritesheet_42: 526730818
+      Sickbuster Spritesheet_43: 11577966
+      Sickbuster Spritesheet_44: 2137838717
+      Sickbuster Spritesheet_45: -1723005684
+      Sickbuster Spritesheet_46: 2056512192
+      Sickbuster Spritesheet_47: 649878837
+      Sickbuster Spritesheet_48: -766410782
+      Sickbuster Spritesheet_49: -1109436718
+      Sickbuster Spritesheet_5: 1511023187
+      Sickbuster Spritesheet_50: -1909074729
+      Sickbuster Spritesheet_51: 1172977639
+      Sickbuster Spritesheet_52: -1758179297
+      Sickbuster Spritesheet_53: -1844221392
+      Sickbuster Spritesheet_54: -1221049517
+      Sickbuster Spritesheet_55: 1266245327
+      Sickbuster Spritesheet_56: -446654409
+      Sickbuster Spritesheet_57: -1505268367
+      Sickbuster Spritesheet_58: -968604264
+      Sickbuster Spritesheet_59: 489732997
+      Sickbuster Spritesheet_6: 746318300
+      Sickbuster Spritesheet_60: 1409956286
+      Sickbuster Spritesheet_61: -966087954
+      Sickbuster Spritesheet_62: -1291385932
+      Sickbuster Spritesheet_63: 137828716
+      Sickbuster Spritesheet_64: -2008608814
+      Sickbuster Spritesheet_65: 218773902
+      Sickbuster Spritesheet_66: 628270275
+      Sickbuster Spritesheet_67: 760393786
+      Sickbuster Spritesheet_68: -1891814819
+      Sickbuster Spritesheet_69: 1891787580
+      Sickbuster Spritesheet_7: 39323922
+      Sickbuster Spritesheet_70: -441037553
+      Sickbuster Spritesheet_71: -1490137100
+      Sickbuster Spritesheet_72: 2108921052
+      Sickbuster Spritesheet_73: 397406049
+      Sickbuster Spritesheet_8: -1093264259
+      Sickbuster Spritesheet_9: -935047072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
